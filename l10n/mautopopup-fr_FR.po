@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mAutoPopup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-09-11 23:01+0100\n"
+"PO-Revision-Date: 2008-09-11 23:21+0100\n"
+"Last-Translator: Christophe SAUVEUR <christophe@xhaleera.com>\n"
+"Language-Team: Christophe SAUVEUR <christophe@xhaleera.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../mautopopup.php:37
+msgid "mAutoPopup"
+msgstr "mAutoPopup"
+
+#: ../mautopopup.php:113
+#, php-format
+msgid "%s Options"
+msgstr "%s Options"
+
+#: ../mautopopup.php:197
+msgid "No version installed."
+msgstr "Aucune version n'est installée."
+
+#: ../mautopopup.php:199
+#, php-format
+msgid "Current version is %s."
+msgstr "La version actuelle est la %s."
+
+#: ../mautopopup.php:216
+msgid "Installation"
+msgstr "Installation"
+
+#: ../mautopopup.php:222
+#, php-format
+msgid "%s must be installed before any further use."
+msgstr "%s doit être installé avant une quelconque utilisation."
+
+#: ../mautopopup.php:225
+#, php-format
+msgid "Setup %s"
+msgstr "Installer %s"
+
+#: ../mautopopup.php:231
+#, php-format
+msgid "You are currently using %s version %s."
+msgstr "Vous utilisez actuellement la version %s de %s."
+
+#: ../mautopopup.php:232
+#, php-format
+msgid "Yet, your database seems to match a more recent version of the plugin (version %s)."
+msgstr "Cependant, votre base de données semble correspondre à une version plus récente du plugin (version %s)."
+
+#: ../mautopopup.php:234
+#, php-format
+msgid "You must reinstall %s before any further use or get back to a suitable version of the software."
+msgstr "Vous devez réinstaller %s pour pouvoir à nouveau l'utiliser ou revenir à une version adaptée du logiciel."
+
+#: ../mautopopup.php:235
+msgid "If you choose to reinstall the plugin, all formerly saved options will be lost."
+msgstr "Si vous choisissez de réinstaller le plugin, toutes les options sauvegardées seront perdues."
+
+#: ../mautopopup.php:238
+#, php-format
+msgid "Reinstall %s"
+msgstr "Réinstaller %s"
+
+#: ../mautopopup.php:256
+msgid "Upgrade"
+msgstr "Mise à Jour"
+
+#: ../mautopopup.php:258
+#, php-format
+msgid "Before now, you were using version %s of %s."
+msgstr "Jusqu'à présent, vous utilisiez la version %s de %s."
+
+#: ../mautopopup.php:259
+#, php-format
+msgid "The new installed version is %s and your database must be upgraded before any further use."
+msgstr "La nouvelle version installée est la %s et votre base de données doit être mise à jour avant une quelconque utilisation."
+
+#: ../mautopopup.php:262
+#, php-format
+msgid "Upgrade %s"
+msgstr "Mettre %s à Jour"
+
+#: ../mautopopup.php:275
+msgid "Global Setup"
+msgstr "Configuration Globale"
+
+#: ../mautopopup.php:279
+msgid "\"Close\" link position"
+msgstr "Position du lien \"Fermer\""
+
+#: ../mautopopup.php:282
+msgid "Above image"
+msgstr "Au-dessus de l'image"
+
+#: ../mautopopup.php:282
+msgid "Below image"
+msgstr "En-dessous l'image"
+
+#: ../mautopopup.php:282
+msgid "Nowhere"
+msgstr "Nulle part"
+
+#: ../mautopopup.php:294
+msgid "Style sheet :"
+msgstr "Feuille de style :"
+
+#: ../mautopopup.php:298
+msgid "Scrolling"
+msgstr "Défilement"
+
+#: ../mautopopup.php:301
+msgid "Don't follow page scrolling"
+msgstr "Ne pas suivre le défilement de la page"
+
+#: ../mautopopup.php:301
+msgid "Readjust position immediately"
+msgstr "Réajuster la position immédiatement"
+
+#: ../mautopopup.php:301
+msgid "Smoothly follow page scrolling (Default)"
+msgstr "Suivi en douceur du défilement de la page (Défaut)"
+
+#: ../mautopopup.php:313
+msgid "Behavior"
+msgstr "Comportement"
+
+#: ../mautopopup.php:314
+msgid "Active for all posts and pages (quicktags ignored)"
+msgstr "Actif pour tous les articles et toutes les pages (les quicktags sont ignorés)"
+
+#: ../mautopopup.php:315
+msgid "Active for all posts and pages but those where the disabling quicktag is present (Default)"
+msgstr "Actif pour tous les articles et toutes les pages sauf celles et ceux où le quicktag de désactivation est présent (Par défaut)"
+
+#: ../mautopopup.php:316
+msgid "Disabled for all posts and pages but those where the enabling quicktag is present"
+msgstr "Désactivé pour tous les articles et toutes les pages sauf celles et ceux où le quicktag d'activation est présent"
+
+#: ../mautopopup.php:317
+msgid "Disabled (quicktags ignored)"
+msgstr "Désactivé (les quicktags sont ignorés)"
+
+#: ../mautopopup.php:318
+msgid "Use LightBox Compatibility Mode"
+msgstr "Utiliser le Mode de Compatibilité LightBox"
+
+#: ../mautopopup.php:321
+msgid "Style sheet storage method"
+msgstr "Méthode de stockage de la feuille de style"
+
+#: ../mautopopup.php:322
+msgid "Database using WordPress' option system (Default)"
+msgstr "Base de données en utilisant le système d'option de WordPress (Par défaut)"
+
+#: ../mautopopup.php:323
+msgid "Regular file"
+msgstr "Fichier normal"
+
+#: ../mautopopup.php:326
+msgid "Save changes"
+msgstr "Sauvegarder les modifications"
+
+#: ../mautopopup.php:338
+msgid "Import / Export Style Sheet"
+msgstr "Importer / Exporter une Feuille de Style"
+
+#: ../mautopopup.php:342
+msgid "Export"
+msgstr "Exporter"
+
+#: ../mautopopup.php:343
+msgid "Download Style Sheet"
+msgstr "Télécharger la Feuille de Style"
+
+#: ../mautopopup.php:349
+msgid "Import"
+msgstr "Importer"
+
+#: ../mautopopup.php:354
+msgid "Import Style Sheet"
+msgstr "Importer une Feuille de Style"
+
+#: ../mautopopup.php:373
+msgid "Uninstall"
+msgstr "Désinstallation"
+
+#: ../mautopopup.php:375
+#, php-format
+msgid "Removing %s will erase all saved options."
+msgstr "Supprimer %s supprimera toutes les options sauvegardées."
+
+#: ../mautopopup.php:376
+msgid "This operation CANNOT be undone."
+msgstr "Cette opératio NE PEUT PAS être annulée."
+
+#: ../mautopopup.php:379
+#, php-format
+msgid "Uninstall %s"
+msgstr "Désinstaller %s"
+
+#: ../mautopopup.php:419
+msgid "Sorry, but you're not allowed to access this page."
+msgstr "Désolé, mais vous n'êtes pas autorisé à accéder à cette page."
+
+#: ../mautopopup.php:434
+#, php-format
+msgid "%s has been successfully uninstalled."
+msgstr "%s a été désinstallé avec succès."
+
+#: ../mautopopup.php:455
+#, php-format
+msgid "%s has been successfully installed."
+msgstr "%s a été installé avec succès."
+
+#: ../mautopopup.php:469
+#, php-format
+msgid "%s has been successfully downgraded."
+msgstr "%s a été ramené à une version antérieure avec succès."
+
+#: ../mautopopup.php:489
+#, php-format
+msgid "%s has been successfully upgraded."
+msgstr "%s a été mis à jour avec succès."
+
+#: ../mautopopup.php:511
+msgid "Unable to set the style sheet."
+msgstr "Impossible de définir la feuille de style."
+
+#: ../mautopopup.php:522
+#: ../mautopopup.php:615
+msgid "Unable to write the style sheet file."
+msgstr "Impossible d'écrire le fichier de la feuille de style."
+
+#: ../mautopopup.php:536
+msgid "The global setup has been successfully set."
+msgstr "La configuration globale a été sauvegardée avec succès."
+
+#: ../mautopopup.php:574
+#: ../mautopopup.php:591
+msgid "You must submit a file."
+msgstr "Vous devez soumettre un fichier."
+
+#: ../mautopopup.php:585
+msgid "The imported file exceeds maximum granted size for file uploads."
+msgstr "Le fichier importé dépasse la taille maximum autorisée pour les envois de fichiers."
+
+#: ../mautopopup.php:588
+msgid "The imported file was only partially uploaded. Please resubmit."
+msgstr "Le fichier importé n'a été que partiellement téléchargé. Veuillez le resoumettre."
+
+#: ../mautopopup.php:594
+msgid "Your server does not seem to have a proper temporary folder for uploaded files. Please contact your administrator to solve this problem."
+msgstr "Votre serveur ne semble pas avoir de répertoire temporaire correctement configuré pour les envois de fichiers. Veuillez contacter votre administrateur pour résoudre ce problème."
+
+#: ../mautopopup.php:597
+msgid "An unidentified error has occured while uploading your file."
+msgstr "Une erreur non identifiée est survenue pendant l'envoi de votre fichier."
+
+#: ../mautopopup.php:606
+msgid "mAutoPopup is unable to access your uploaded file."
+msgstr "mAutoPopup n'a pas pu accéder au fichier importé."
+
+#: ../mautopopup.php:623
+msgid "The style sheet has been successfully replaced by the imported one."
+msgstr "La feuille de style a été remplacée avec succès par la version importée."
+
+#: ../mautopopup.php:737
+msgid "Close"
+msgstr "Fermer"
+
+#: ../tinymce_plugin/wp-langs.php:3
+msgid "Insert Enable quicktag"
+msgstr "Insérer le quicktag d'activation"
+
+#: ../tinymce_plugin/wp-langs.php:4
+msgid "Insert Disable quicktag"
+msgstr "Insérer le quicktag de désactivation"
+
+#: ../tinymce_plugin/wp-langs.php:5
+msgid "Remove any quicktag"
+msgstr "Supprimer tous les quicktags"
+
+#~ msgid "Setup mAutoPopup"
+#~ msgstr "Installer mAutoPopup"
+#~ msgid "Reinstall mAutoPopup"
+#~ msgstr "Réinstaller mAutoPopup"
+#~ msgid "Upgrade mAutoPopup"
+#~ msgstr "Mettre mAutoPopup à jour"
+#~ msgid "Uninstall mAutoPopup"
+#~ msgstr "Désinstaller mAutoPopup"
+#~ msgid "mAutoPopup Options"
+#~ msgstr "Options de mAutoPopup"
+

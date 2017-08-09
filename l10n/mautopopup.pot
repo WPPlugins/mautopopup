@@ -1,0 +1,294 @@
+# mAutoPopup translation file
+# This file is provided under the same license terms as the mAutoPopup package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mAutoPopup 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-09-11 23:01+0100\n"
+"PO-Revision-Date: 2008-09-11 23:02+0100\n"
+"Last-Translator: Christophe SAUVEUR <christophe@xhaleera.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../mautopopup.php:37
+msgid "mAutoPopup"
+msgstr ""
+
+#: ../mautopopup.php:113
+#, php-format
+msgid "%s Options"
+msgstr ""
+
+#: ../mautopopup.php:197
+msgid "No version installed."
+msgstr ""
+
+#: ../mautopopup.php:199
+#, php-format
+msgid "Current version is %s."
+msgstr ""
+
+#: ../mautopopup.php:216
+msgid "Installation"
+msgstr ""
+
+#: ../mautopopup.php:222
+#, php-format
+msgid "%s must be installed before any further use."
+msgstr ""
+
+#: ../mautopopup.php:225
+#, php-format
+msgid "Setup %s"
+msgstr ""
+
+#: ../mautopopup.php:231
+#, php-format
+msgid "You are currently using %s version %s."
+msgstr ""
+
+#: ../mautopopup.php:232
+#, php-format
+msgid "Yet, your database seems to match a more recent version of the plugin (version %s)."
+msgstr ""
+
+#: ../mautopopup.php:234
+#, php-format
+msgid "You must reinstall %s before any further use or get back to a suitable version of the software."
+msgstr ""
+
+#: ../mautopopup.php:235
+msgid "If you choose to reinstall the plugin, all formerly saved options will be lost."
+msgstr ""
+
+#: ../mautopopup.php:238
+#, php-format
+msgid "Reinstall %s"
+msgstr ""
+
+#: ../mautopopup.php:256
+msgid "Upgrade"
+msgstr ""
+
+#: ../mautopopup.php:258
+#, php-format
+msgid "Before now, you were using version %s of %s."
+msgstr ""
+
+#: ../mautopopup.php:259
+#, php-format
+msgid "The new installed version is %s and your database must be upgraded before any further use."
+msgstr ""
+
+#: ../mautopopup.php:262
+#, php-format
+msgid "Upgrade %s"
+msgstr ""
+
+#: ../mautopopup.php:275
+msgid "Global Setup"
+msgstr ""
+
+#: ../mautopopup.php:279
+msgid "\"Close\" link position"
+msgstr ""
+
+#: ../mautopopup.php:282
+msgid "Above image"
+msgstr ""
+
+#: ../mautopopup.php:282
+msgid "Below image"
+msgstr ""
+
+#: ../mautopopup.php:282
+msgid "Nowhere"
+msgstr ""
+
+#: ../mautopopup.php:294
+msgid "Style sheet :"
+msgstr ""
+
+#: ../mautopopup.php:298
+msgid "Scrolling"
+msgstr ""
+
+#: ../mautopopup.php:301
+msgid "Don't follow page scrolling"
+msgstr ""
+
+#: ../mautopopup.php:301
+msgid "Readjust position immediately"
+msgstr ""
+
+#: ../mautopopup.php:301
+msgid "Smoothly follow page scrolling (Default)"
+msgstr ""
+
+#: ../mautopopup.php:313
+msgid "Behavior"
+msgstr ""
+
+#: ../mautopopup.php:314
+msgid "Active for all posts and pages (quicktags ignored)"
+msgstr ""
+
+#: ../mautopopup.php:315
+msgid "Active for all posts and pages but those where the disabling quicktag is present (Default)"
+msgstr ""
+
+#: ../mautopopup.php:316
+msgid "Disabled for all posts and pages but those where the enabling quicktag is present"
+msgstr ""
+
+#: ../mautopopup.php:317
+msgid "Disabled (quicktags ignored)"
+msgstr ""
+
+#: ../mautopopup.php:318
+msgid "Use LightBox Compatibility Mode"
+msgstr ""
+
+#: ../mautopopup.php:321
+msgid "Style sheet storage method"
+msgstr ""
+
+#: ../mautopopup.php:322
+msgid "Database using WordPress' option system (Default)"
+msgstr ""
+
+#: ../mautopopup.php:323
+msgid "Regular file"
+msgstr ""
+
+#: ../mautopopup.php:326
+msgid "Save changes"
+msgstr ""
+
+#: ../mautopopup.php:338
+msgid "Import / Export Style Sheet"
+msgstr ""
+
+#: ../mautopopup.php:342
+msgid "Export"
+msgstr ""
+
+#: ../mautopopup.php:343
+msgid "Download Style Sheet"
+msgstr ""
+
+#: ../mautopopup.php:349
+msgid "Import"
+msgstr ""
+
+#: ../mautopopup.php:354
+msgid "Import Style Sheet"
+msgstr ""
+
+#: ../mautopopup.php:373
+msgid "Uninstall"
+msgstr ""
+
+#: ../mautopopup.php:375
+#, php-format
+msgid "Removing %s will erase all saved options."
+msgstr ""
+
+#: ../mautopopup.php:376
+msgid "This operation CANNOT be undone."
+msgstr ""
+
+#: ../mautopopup.php:379
+#, php-format
+msgid "Uninstall %s"
+msgstr ""
+
+#: ../mautopopup.php:419
+msgid "Sorry, but you're not allowed to access this page."
+msgstr ""
+
+#: ../mautopopup.php:434
+#, php-format
+msgid "%s has been successfully uninstalled."
+msgstr ""
+
+#: ../mautopopup.php:455
+#, php-format
+msgid "%s has been successfully installed."
+msgstr ""
+
+#: ../mautopopup.php:469
+#, php-format
+msgid "%s has been successfully downgraded."
+msgstr ""
+
+#: ../mautopopup.php:489
+#, php-format
+msgid "%s has been successfully upgraded."
+msgstr ""
+
+#: ../mautopopup.php:511
+msgid "Unable to set the style sheet."
+msgstr ""
+
+#: ../mautopopup.php:522
+#: ../mautopopup.php:615
+msgid "Unable to write the style sheet file."
+msgstr ""
+
+#: ../mautopopup.php:536
+msgid "The global setup has been successfully set."
+msgstr ""
+
+#: ../mautopopup.php:574
+#: ../mautopopup.php:591
+msgid "You must submit a file."
+msgstr ""
+
+#: ../mautopopup.php:585
+msgid "The imported file exceeds maximum granted size for file uploads."
+msgstr ""
+
+#: ../mautopopup.php:588
+msgid "The imported file was only partially uploaded. Please resubmit."
+msgstr ""
+
+#: ../mautopopup.php:594
+msgid "Your server does not seem to have a proper temporary folder for uploaded files. Please contact your administrator to solve this problem."
+msgstr ""
+
+#: ../mautopopup.php:597
+msgid "An unidentified error has occured while uploading your file."
+msgstr ""
+
+#: ../mautopopup.php:606
+msgid "mAutoPopup is unable to access your uploaded file."
+msgstr ""
+
+#: ../mautopopup.php:623
+msgid "The style sheet has been successfully replaced by the imported one."
+msgstr ""
+
+#: ../mautopopup.php:737
+msgid "Close"
+msgstr ""
+
+#: ../tinymce_plugin/wp-langs.php:3
+msgid "Insert Enable quicktag"
+msgstr ""
+
+#: ../tinymce_plugin/wp-langs.php:4
+msgid "Insert Disable quicktag"
+msgstr ""
+
+#: ../tinymce_plugin/wp-langs.php:5
+msgid "Remove any quicktag"
+msgstr ""
+
